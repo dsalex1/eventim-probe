@@ -6,8 +6,6 @@ import 'vue-cookie-comply/dist/style.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap';
 
-import './style.css'
-
 /* import fontawesome */
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'

@@ -1,6 +1,5 @@
 //types generated from json schema using http://json2ts.com/
 
-
 export interface Image {
     id: string;
     copyright: string;
